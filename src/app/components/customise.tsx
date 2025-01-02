@@ -13,21 +13,21 @@ export default function Customise() {
           plugins using the Extension API.
         </p>
         <button className="bg-[#4F9CF9] mt-9 flex items-center justify-center text-white active:bg-[#3068ad] w-[171px] h-[63px] rounded-[6px] py-[20px] px-[40px] gap-[10px]">
-            Let's Go
-            <Image
-              className="relative right-[-0.75rem]"
-              src="/hero-btn-v2.png"
-              alt="part one of arrow image on button"
-              width={8}
-              height={5}
-            />
-            <Image
-              src="/hero-btn-v1.png"
-              alt="part two of arrow image on button"
-              width={5}
-              height={5}
-            />
-            </button>
+          Let&apos;s Go
+          <Image
+            className="relative right-[-0.75rem]"
+            src="/hero-btn-v2.png"
+            alt="part one of arrow image on button"
+            width={8}
+            height={5}
+          />
+          <Image
+            src="/hero-btn-v1.png"
+            alt="part two of arrow image on button"
+            width={5}
+            height={5}
+          />
+        </button>
       </div>
     </div>
   );

@@ -1,4 +1,4 @@
-import Image from "next/image";
+
 import Logo from "./images/logo";
 export default function Navbar () {
     return(
